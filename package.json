@@ -1,5 +1,6 @@
 {
   "name": "hiking",
+  "homepage": "http://citycamping.co",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
