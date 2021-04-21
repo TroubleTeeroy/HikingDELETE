@@ -1,2 +1,2 @@
 # TroubleTeeroy.github.io
-This shit dont wory
+This shit dont work
